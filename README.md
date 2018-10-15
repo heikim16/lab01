@@ -16,6 +16,7 @@ Wichtige Schritte in Git sind:
 1. `git.add`
 1. `git.commit`
 1. `git.push`
+1. `git pull`
 
 Weitere Dokumentationen zu Git sind [hier] () zu finden.
 
